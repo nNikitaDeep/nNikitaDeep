@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Nikita Deep 👋
 
-<!--
-**nNikitaDeep/nNikitaDeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Business Data Analyst
 
-Here are some ideas to get you started:
+Data Analyst with 1+ years of experience in analytics, reporting, and business intelligence solutions. Skilled in SQL, Power BI, Python, Advanced Excel, Azure, and Databricks with hands-on experience in KPI reporting, dashboard development, ETL workflows, and data modeling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy transforming raw business data into actionable insights through analytics, visualization, automation, and data-driven decision-making.
+
+---
+
+## 🔧 Tech Stack
+
+* SQL
+* Power BI
+* Python
+* Advanced Excel
+* Power Query
+* DAX
+* Data Modeling
+* ETL
+* Azure
+* Databricks
+* Pandas
+* Matplotlib
+
+---
+
+## 💼 What I Work On
+
+* Dashboard Development
+* Business Intelligence Reporting
+* Data Cleaning & Transformation
+* KPI & Performance Analysis
+* Revenue & Operational Analytics
+* Forecasting & Trend Analysis
+* Data Visualization & Storytelling
+* Process Automation
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: [www.linkedin.com/in/nikita-deep](http://www.linkedin.com/in/nikita-deep)
+* Email: [nikitadeep91@gmail.com](mailto:nikitadeep91@gmail.com)
+
+---
+
+⭐ Passionate about solving business problems using data and analytics.
