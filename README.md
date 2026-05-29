@@ -13,7 +13,7 @@ Focused on KPI dashboards, data modeling, ETL workflows, business intelligence r
 
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
 ![Advanced Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-FFB000?style=for-the-badge)
 ![Power Query](https://img.shields.io/badge/Power_Query-742774?style=for-the-badge)
