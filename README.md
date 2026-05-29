@@ -18,3 +18,8 @@ SQL • Power BI • Python • Advanced Excel • DAX • Power Query • ETL �
 
 LinkedIn: [www.linkedin.com/in/nikita-deep](http://www.linkedin.com/in/nikita-deep)
 Email: [nikitadeep91@gmail.com](mailto:nikitadeep91@gmail.com)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nNikitaDeep&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nNikitaDeep&layout=compact)
