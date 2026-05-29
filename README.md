@@ -20,6 +20,6 @@ LinkedIn: [www.linkedin.com/in/nikita-deep](http://www.linkedin.com/in/nikita-de
 Email: [nikitadeep91@gmail.com](mailto:nikitadeep91@gmail.com)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nNikitaDeep&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nNikitaDeep&layout=compact)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
